@@ -9,8 +9,8 @@ Try searching for cities like "New York", "London", or "Tokyo".
 
 ##🛠️ Tech Stack
 
-Frontend: React.js
-UI Framework: Material-UI (MUI)
-Icons: MUI Icons
-API: OpenWeatherMap API
-Geolocation: GeoDB Cities API
+-Frontend: React.js
+-UI Framework: Material-UI (MUI)
+-Icons: MUI Icons
+-API: OpenWeatherMap API
+-Geolocation: GeoDB Cities API
