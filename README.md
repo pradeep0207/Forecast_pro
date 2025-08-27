@@ -7,10 +7,14 @@ This is a modern weather forecast web application built using React and OpenWeat
 
 Try searching for cities like "New York", "London", or "Tokyo".
 
-##🛠️ Tech Stack
+## 🛠️ Tech Stack
 
--React.js
--Material-UI (MUI)
--MUI Icons
--OpenWeatherMap API
--GeoDB Cities API
+Frontend Framework: React.js
+
+UI Library: Material-UI (MUI)
+
+Icons: MUI Icons
+
+Weather API: OpenWeatherMap API
+
+Geolocation API: GeoDB Cities API
